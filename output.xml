@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.11.1 on win32)" generated="20230203 13:27:09.532" rpa="false" schemaversion="3">
+<suite id="s1" name="Testcase" source="c:\Users\ronny\OneDrive\Bureau\Robot_Project12\TestCase\Testcase.robot">
+<test id="s1-t1" name="Test Synchro" line="13">
+<status status="FAIL" starttime="20230203 13:27:11.358" endtime="20230203 13:27:11.359">Test contains no keywords.</status>
+</test>
+<doc>Test d'explication mecanisme d'attente
+STATIQUE &amp; Dynamqiue(Implicite &amp; Explicite wait)</doc>
+<status status="FAIL" starttime="20230203 13:27:09.544" endtime="20230203 13:27:11.360"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Testcase">Testcase</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
